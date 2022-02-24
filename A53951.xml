@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>David and the Amalekite upon the death of Saul a sermon preached on Jan. 30, 1682, being the anniversary of the martyrdom of King Charles I of blessed memory / by Edward Pelling ...</title>
+            <author>Pelling, Edward, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53951</idno>
+            <idno type="STC">Wing P1077</idno>
+            <idno type="STC">ESTC R683</idno>
+            <idno type="EEBO-CITATION">11875240</idno>
+            <idno type="OCLC">ocm 11875240</idno>
+            <idno type="VID">50189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50189)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 504:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>David and the Amalekite upon the death of Saul a sermon preached on Jan. 30, 1682, being the anniversary of the martyrdom of King Charles I of blessed memory / by Edward Pelling ...</title>
+                  <author>Pelling, Edward, d. 1718.</author>
+               </titleStmt>
+               <extent>[4], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Redmayne, Jun. for William Abington...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:50189:1" rendition="simple:additions"/> 
+               <hi>David</hi> and the <hi>Amalekite</hi> Upon the DEATH of SAUL. A SERMON Preached on <hi>Jan.</hi> 30. 1682. Being the Anniverſary of the MARTYRDOM OF King Charles I. Of Bleſſed Memory.</p>
+            <p>By <hi>EDWARD PELLING,</hi> Rector of St. <hi>Martins Lud<g ref="char:EOLhyphen"/>gate,</hi> and Chaplain to his Grace the Duke of <hi>Somerſet.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Tell it not in</hi> Gath, <hi>publiſh it not in the Streets of</hi> Askelon,
+<hi>&amp;c.</hi> 
+               </p>
+               <bibl>2 Sam. 1. 10.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Redmayne,</hi> Jun. for <hi>William Abington</hi> at the three <hi>Silk-Worms</hi> in <hi>Ludgate-ſtreet.</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50189:2"/>
+            <pb facs="tcp:50189:2"/>
+            <head>
+               <hi>To my moſt Honoured Lord,</hi> Charles <hi>Duke of</hi> Somerſet, <hi>Marqueſs and Earl of</hi> Hertford, <hi>Viſcount</hi> Beauchamp, <hi>and Baron of</hi> Trowbridge.</head>
+            <opener>
+               <salute>May it pleaſe your Grace,</salute>
+            </opener>
+            <p>IT is no ſmall part of your Honour, that you are de<g ref="char:EOLhyphen"/>ſcended of ſuch Noble Anceſtors as have been Great and Eminent, both for their Alliance to the Royal Family, and for their continual Fidelity to the Intereſt of the Crown. He that ſhall peruſe only the Hiſtory of the Late Rebellion, and the Letters which did paſs between his Late Majeſty and the Queen, may eaſily ſee how Confident that Bleſſed Prince was of the Loyalty, and how Faithfully he was ſerved all along by the Wiſdom, and Courage of your Noble Grand-Father the Lord <hi>Sey<g ref="char:EOLhyphen"/>mour,</hi> and your Great <g ref="char:V">Ʋ</g>ncle the Marqueſs of <hi>Hertford,</hi> who was the Firſt General of the Kings Forces againſt the Parliament; and lived to ſee the happy times of Reſtitution, and Dyed Duke of <hi>Somerſet</hi> (full of years and Honour) ſince the Reſtauration of his preſent Majeſty. But that which greatly addeth to your Honour is, that as you inherit the Titles, ſo (God be bleſſed) you inherit the Loyalty of all your Honourable Predeceſſors: Which I ſay (My Lord) not by way of Complement, but to do you Juſtice: And I muſt beg your Graces Pardon if that Expreſſion ſeems to Derogate from your Virtue, in ma<g ref="char:EOLhyphen"/>king your Loyalty to be, not a thing of Choice (as all Virtue is) but a Principle cleaving to your very Nature,
+<pb facs="tcp:50189:3"/> which cannot be overcome. It is this that hath indear'd you to the King; who has given you an Earneſt of his Favour, in Repoſing in you ſo Great a Truſt, in the North, for Conducting your affairs with ſo much Judgment and Integrity, aſſoon as ever Providence brought you to bear ſuch a great Figure in the World. It is this, that has made you to lie ſo deep in the Hearts, and Affections of Good Men, wbo take Heart and Courage by ſeeing your Grace to act ſo in all things like a good Subject, notwithſtanding thoſe Temptations which have Miſ-led ſome, whoſe longer Experience ſhould have taught them Wiſdom. It is this (My Lord) which I muſt crave Leave ſtill to put you in mind of, that above all things you be careful to have a moſt Tender regard of your Virtue, and to be ever (as you are) Faithful and True to your Prince: For here<g ref="char:EOLhyphen"/>by you will do right to the memory of your Honourable Progenitors, you will maintain your Honour Clean and <g ref="char:V">Ʋ</g>nſpotted, you will be uſeful to the King, to the Church, and to your Country, you will be an Honour and Comfort to your Friends, and an Excellent Example to the World. It is for theſe Ends (My Lord) that I take upon me to preſent to your Grace this following Diſcourſe, begging your Lordſhips, Kind acceptance of it, and beſeeching God (whoſe Providence hath been ſo Gracious to you hitherto) to Guide, Govern and Preſerve your ſelf and Noble Con<g ref="char:EOLhyphen"/>ſort, and to Bleſs Both your Graces with the long Happineſs of an undivided Heart, and with a Numerous and Flou<g ref="char:EOLhyphen"/>riſhing Iſſue; which is the Hearty Prayer of,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Grace's moſt Humble, Faithful, and truly Affectionate Servant and Chaplain,</hi> Edw. Pelling.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50189:3"/>
+            <q>
+               <bibl>2 SAM. 1. 14.</bibl>
+               <p>
+                  <hi>And</hi> David <hi>ſaid unto him, How waſt thou not afraid to ſtretch forth thine hand, to deſtroy the Lord's Anointed?</hi>
+               </p>
+            </q>
+            <p>BEfore we enter upon the conſideration of this place of Scripture, we muſt come fairly to it by making our way through the <hi>Context,</hi> to which the <hi>Text</hi> doth relate; and thus it was. There had been now a War between <hi>Saul</hi> and the <hi>Philiſtines;</hi> a War that was founded on the Law of God, where<g ref="char:EOLhyphen"/>by the Children of <hi>Iſrael</hi> were forbidden to <hi>make any Covenant with the Inhabitants of</hi> Canaan, <hi>or to ſhew them mercy, Deut.</hi> 7. 2. This War ended in the <hi>Death</hi> of <hi>Saul;</hi> and the overthrow of his People though he was made King by God's <hi>own</hi> appointment, though he was God's own Vicegerent over God's own Inheri<g ref="char:EOLhyphen"/>tance, and undertook a quarrel purſuant to God's <hi>own</hi> Will, yet in the Concluſion both He and his Forces (Good <hi>Jonathan</hi> himſelf not excepted) are routed upon Mount <hi>Gilboa</hi> by the <hi>
+                  <g ref="char:V">Ʋ</g>ncircumciſed Philiſtines:</hi> To ſhew, that
+<hi>Succeſs</hi> in War is not an Argument of the
+<pb n="2" facs="tcp:50189:4"/> Righteouſneſs of a <hi>Cauſe,</hi> or of the Righteouſneſs of a
+<hi>Party,</hi> but of the unſearchable Wiſdom and Righte<g ref="char:EOLhyphen"/>ouſneſs of God.</p>
+            <p>
+               <hi>Saul</hi> being defeated was full of Horror and Deſpe<g ref="char:EOLhyphen"/>ration, and reſolved to haſten out of the <hi>World</hi> ſince he had fled before the <hi>Philiſtines;</hi> and becauſe his Armour-bearer could not be entreated (by reaſon of that <hi>Awful</hi> regard he bore to
+<hi>Majeſty)</hi> to befriend his undone Soveraign with a Mortal Blow, <hi>Saul</hi> gives
+<hi>Himſelf</hi> his Deaths-wound with his own hands.</p>
+            <p>An <hi>Amalekite</hi> happening to be there, took off his Royal Diadem and Bracelet, and with great Speed carryed them to <hi>Ziklag</hi> to <hi>David,</hi> who by Common Fame was known to have been Anointed next Heir to the Crown of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <hi>David</hi> received the news of <hi>Saul</hi>'s and <hi>Jonathan</hi>'s Death, with exceſs of <hi>Sorrow:</hi> But hearing that this <hi>Amalekite</hi> had had an hand in <hi>Saul</hi>'s deſtruction, his Heart was ſtruck through with <hi>Amazement and Indig<g ref="char:EOLhyphen"/>nation.</hi> Though
+<hi>Saul</hi> had been his Bloud-thirſty <hi>Ene<g ref="char:EOLhyphen"/>my,</hi> yet his Soul was on a Flame, at the ſad Tidings of his being <hi>Murder'd</hi> and though this young man was not one of
+<hi>Saul</hi>'s Subjects, but a Stranger, yet for the Sake of God, whoſe Impreſs the Unfortunate King bore, for the Honour of <hi>Majeſty,</hi> and out of reſpect to
+<hi>Saul</hi>'s Divine <hi>
+                  <g ref="char:V">Ʋ</g>nction</hi> and <hi>Character,</hi> he was reſolved to revenge the Kings Death with every drop of this <hi>Amalekites</hi> Bloud; and this was the Preamble to his juſt Sentence, <hi>How waſt thou not afraid to ſtretch forth thine hand, to deſtroy the Lord's Anointed?</hi>
+            </p>
+            <p>In which words we are to conſider, by way of Ex<g ref="char:EOLhyphen"/>plication,</p>
+            <p>
+               <pb n="3" facs="tcp:50189:4"/> 1. Firſt, the matter of Fact, which this <hi>Amalekite</hi> own'd himſelf to have been guilty of.</p>
+            <p>2. <hi>Davids</hi> deep <hi>Reſentment</hi> of the Relation which this <hi>Amalekite</hi> made of the matter.</p>
+            <p n="1">1. The matter of Fact was, that he had ſtretched out his hand to deſtroy the King of
+<hi>Iſrael;</hi> this he ac<g ref="char:EOLhyphen"/>knowledg'd, and ſeemed to boaſt of, as a Meritorious office, which he had done for <hi>David,</hi> who was to be <hi>Saul</hi>'s Succeſſor in the Throne. Now, it has been a great doubt both among <hi>Jews</hi> and <hi>Chriſtians,</hi> whether this was a <hi>Reality,</hi> or only a <hi>Pretence.</hi> Many of the <hi>He<g ref="char:EOLhyphen"/>brew</hi> Doctors affirm (which is alſo the general ſenſe of <note place="margin">
+                  <hi>Sunt apud He<g ref="char:EOLhyphen"/>braeos qui pu<g ref="char:EOLhyphen"/>tant hunc Ama<g ref="char:EOLhyphen"/>lekiten adula<g ref="char:EOLhyphen"/>torum more, mentitum fuiſſe, quando ſe dixit</hi> Saul
+<hi>in<g ref="char:EOLhyphen"/>terfeciſſe.</hi> Mun<g ref="char:EOLhyphen"/>ſter. <hi>Antiquit. Ju<g ref="char:EOLhyphen"/>daic. lib.</hi> 6.</note>
+               <hi>Chriſtian</hi> Writers) that <hi>Saul</hi> killed himſelf, and that the <hi>Amalekite</hi> was a <hi>Liar</hi> as to that particular. Nor doth this opinion want its Reaſons. For in the laſt Chapter of the Firſt Book of <hi>Samuel</hi> (where the manner of <hi>Sauls</hi> Death is related) no mention is made of the <hi>Amalekite,</hi> but the Text ſaith, that <hi>Saul took a Sword, and fell upon it,</hi> v. 4. On the other ſide, <hi>Joſephus</hi> and ſome more tell us, that <hi>Saul</hi> had not the <hi>Onely</hi> hand in the caſe, but that the
+<hi>Amalekite</hi> was the <hi>Principal</hi> actor. Nor doth <hi>this</hi> opinion want its Reaſons neither. For the <hi>Amalekites</hi> were as much Enemies to <hi>Iſrael,</hi> as the
+<hi>Philiſtines</hi> were; and this <hi>Amalekite</hi> was on Mount <hi>Gilboa</hi> when
+<hi>Saul</hi> fell; and he did not only poſt away to <hi>David</hi> as a Meſſenger of the Fact, but perſiſted in the ſtory as an <hi>Agent</hi> that had been concern'd in it; and
+<hi>perſiſted</hi> to the <hi>end</hi> too, without <hi>owning</hi> his Folly, or
+<hi>excuſing</hi> his Lye (which probably he would have done) when he ſaw, that a Sentence of Death againſt himſelf, was the <hi>Onely</hi> Welcome and Reward, that he was to re<g ref="char:EOLhyphen"/>ceive.</p>
+            <p>
+               <pb n="4" facs="tcp:50189:5"/> Now for the Solution of this doubt, there ſeem to be ſome grounds for a
+<hi>Third</hi> opinion yet, which will make the whole ſtory to <hi>Agree, viz.</hi> that
+<hi>Saul</hi> and this <hi>Amalekite</hi> did (Both of them) jointly <hi>Concurr</hi> in the carrying of this Sad Tragedy on. For that <hi>Saul</hi> fell upon his Sword, and ſo gave himſelf his Deaths-wound, is clear. That his Armour-bearer might look upon him as Dead (though indeed he was not) may be <hi>Pro<g ref="char:EOLhyphen"/>bable.</hi> That being incumbered with his Arms and
+<note place="margin">So ſome un<g ref="char:EOLhyphen"/>derſtand that place (agree<g ref="char:EOLhyphen"/>able to what we find in the Margin of our Bibles, v. 9. <hi>Incluſus teneor veſtibus &amp; Armis, ut gladius in quem rui non potue<g ref="char:EOLhyphen"/>rit me perdere.</hi>
+               </note> Coat of Mail, he did not diſpatch himſelf <hi>Fully,</hi> is not incredible: And then 'tis likely enough, both that <hi>Saul</hi> did beg a Bloudy Kindneſs of the <hi>Amalekite,</hi> for fear of falling alive into the hands of the <hi>Philiſtines,</hi> and that this <hi>Amalekite</hi> did readily gratify him, in hopes of a Richer booty, than the price of the Crown and the Bracelet came to.</p>
+            <p>But it is not much material, whether this <hi>Ama<g ref="char:EOLhyphen"/>lekite</hi> was <hi>Really</hi> Guilty, or had a mind only to <hi>Father</hi> the action. We will now (as <hi>David</hi> did) take his own Word for it, and <hi>Suppoſe</hi> him to have ſpoken Truth. For none can be better believed, then he that confeſ<g ref="char:EOLhyphen"/>ſeth againſt <hi>Himſelf.</hi> Every man will be ſure to make the beſt of his <hi>own</hi> ſtory; and though an Evidence may Swear away <hi>other</hi> mens Lives, he will be tender of his <hi>own,</hi> and beware of being his own <hi>Accuſer,</hi> though he depoſeth to a <hi>Lye.</hi> We will not therefore contraſt the Credit of his own Teſtimony, but ac<g ref="char:EOLhyphen"/>quieſce in what he ſaid, and look upon him as a Crimi<g ref="char:EOLhyphen"/>nal; and proceed to</p>
+            <p n="2">2. The ſecond thing (which is moſt pertinent to the buſineſs of this day)
+<hi>Davids</hi> deep <hi>Reſentment</hi> of this <hi>Amalekites</hi> relation; it was a
+<hi>Dreadful</hi> ſtory, a
+<pb n="5" facs="tcp:50189:5"/> moſt <hi>Horrible</hi> and <hi>Fearful</hi> thing in the account of this good man, <hi>How waſt thou not afraid to ſtretch forth thine hand to deſtroy the Lord's Anointed?</hi>
+            </p>
+            <p>Had it not been a Sin of a moſt <hi>Horrid</hi> nature and a <hi>clamorous</hi> voice, He who was ſo <hi>near</hi> the Throne, would at leaſt have <hi>forgiven</hi> the man, that did ſo rea<g ref="char:EOLhyphen"/>dily help him to the actual <hi>poſſeſſion</hi> of it, eſpecially being an Heir that had waited with ſo much Suffer<g ref="char:EOLhyphen"/>ing, and been provoked by <hi>Saul</hi> with ſo many Indigni<g ref="char:EOLhyphen"/>ties. But <hi>King-Killing</hi> is a Crime that is Odious and Abominable in the eyes even of thoſe, that <hi>fare</hi> well by the <hi>Regicide.</hi> To which purpoſe the Learned
+<hi>Grotius</hi> has rightly obſerved out of one of the <hi>Roman</hi> 
+               <note place="margin">
+                  <hi>Tacit. Hiſt. lib.</hi> 1.</note> Hiſtories, that when the Emperor
+<hi>Galba</hi> was Mur<g ref="char:EOLhyphen"/>der'd, <hi>Vitellius,</hi> though (Humanly ſpeaking) he had reaſon enough to be glad of the Fact, having thereby got the power into his hands, yet out of a due ſenſe he had of the <hi>Horridneſs</hi> of the Villany he comman<g ref="char:EOLhyphen"/>ded thoſe Traitors, who had ſerved his <hi>turn,</hi> to be ſlain all of them, when they had the confidence to Addreſs for a Reward.</p>
+            <p>An inſtance not much unlike King <hi>David</hi>'s dealing with this <hi>Amalekite,</hi> when he brought <hi>Saul</hi>'s Bloud upon his <hi>own</hi> head; becauſe he had ſtretched forth his hand to deſtroy the Lord's Anointed.</p>
+            <p>Thoſe Words, <hi>the Lord's Anointed,</hi> denote the <hi>great,</hi> nay the <hi>Sole</hi> thing, which we find here and in other places to have made ſuch a <hi>deep</hi> and
+<hi>continual</hi> Impreſſion upon <hi>David</hi>'s Spirit: So that when he had cut off the skirt of <hi>Saul</hi>'s robe, his Heart <hi>Smote</hi> him: When he was tempted to Kill him in the Cave, he <hi>ab<g ref="char:EOLhyphen"/>horr'd</hi> the very thoughts of it; when <hi>Abiſhai</hi> would
+<pb n="6" facs="tcp:50189:6"/> have deſtroyed him at one blow as he was aſleep, <hi>David with-held</hi> him with a ſtrong hand: When <hi>Ab<g ref="char:EOLhyphen"/>ner</hi> was ſo careleſs of his Maſters ſafety, as to let him fall into <hi>David</hi>'s power, <hi>David reprehended</hi> him: And at laſt, when this
+<hi>Amalekite</hi> had ſmote him (him, who had ſo long <hi>hunted</hi> after <hi>David</hi>'s Soul) He pre<g ref="char:EOLhyphen"/>ſently <hi>ſmote</hi> the <hi>Amalekite;</hi> all this was grounded upon this
+<hi>Great</hi> and <hi>Weighty</hi> conſideration, that <hi>Saul</hi> was the <hi>Lord's Anointed.</hi>
+            </p>
+            <p>A King is ſaid to be the <hi>Lord's Anointed</hi> in a Two-fold reſpect.</p>
+            <p n="1">1. In reſpect of that <hi>outward, Ceremonial</hi> Unction, whereby for
+<hi>Sate-ſake</hi> he is by the Prieſt ſeparated from the People, or rather <hi>Declared, Notified, and Acknow<g ref="char:EOLhyphen"/>ledg'd</hi> to be a <hi>Sacred</hi> perſon. Now this is <hi>not</hi> the great thing conſiderable, becauſe it is but a <hi>Rite</hi> and <hi>Form</hi> that is not abſolutely <hi>neceſſary:</hi> For many Princes at this day are not <hi>thus</hi> Anointed at all; I know not whether this Unction was <hi>ever</hi> uſed to Pagan Kings, who yet were Gods Miniſters, and had Gods Autho<g ref="char:EOLhyphen"/>rity, as well as others; it was a long time before it came to be uſed even in the <hi>Chriſtian</hi> World; <hi>anci<g ref="char:EOLhyphen"/>ently</hi> and <hi>originally</hi> it was a rite peculiar to the <hi>Jews</hi> alone; and among <hi>them</hi> it was not uſed
+<hi>conſtantly</hi> neither, but when the <hi>Succeſſion</hi> was <hi>broken,</hi> or a diſ<g ref="char:EOLhyphen"/>pute aroſe about a Succeſſors <hi>Title;</hi> commonly <hi>one</hi> of a Family was Anointed for all his <hi>Poſterity</hi> and <hi>Iſſue;</hi> and even <hi>then</hi> the man was not made King becauſe he was <hi>Anointed,</hi> but he was Anointed becauſe he was
+<hi>King.</hi> Though there be neither <hi>Horn,</hi> nor <hi>Cruſe</hi> of Oyl in the caſe, yet he is <hi>Gods Anointed</hi> nevertheleſs,
+<pb n="7" facs="tcp:50189:6"/> and that upon an <hi>Higher</hi> and more <hi>Noble</hi> account,
+<hi>viz;</hi>
+            </p>
+            <p n="2">2. In reſpect of that <hi>inward</hi> and <hi>eſſential</hi> Unction, which he receives at the very firſt <hi>minute</hi> of his King<g ref="char:EOLhyphen"/>ſhip, and by which he is Sanctified and ſet <hi>apart</hi> and <hi>above</hi> all others in that very Article of time, and which from that day forward is <hi>inſeparable</hi> from his Perſon. Now this Unction conſiſteth in that Supreme <hi>Power</hi> which is given unto him, in that Sacred <hi>Au<g ref="char:EOLhyphen"/>thority</hi> which is veſted in him, in that inviolable <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> which is inſeparable from him, in that Divine <hi>Image</hi> and <hi>Impreſs,</hi> whereby he bears a <hi>different</hi> and
+<hi>ſingu<g ref="char:EOLhyphen"/>lar</hi> Character, and becomes <hi>Hallowed.</hi> And becauſe he receives all this at the hands of <hi>God</hi> alone, becauſe he oweth all this, neither to <hi>Prieſt</hi> nor
+<hi>People,</hi> but to <hi>God</hi> alone; becauſe this <hi>Power, Authority, Majeſty, Image,</hi> and <hi>Character</hi> is given him by the <hi>Lord</hi> only, therefore he is called,
+<hi>The Lord's Anointed,</hi> that is, a Perſon made ſo <hi>Sacred</hi> by God by the Communication of his <hi>own</hi> Authority, that now he cannot be treated with rudeneſs or violence, without Diſhonouring God's own Majeſty and ſtriking at the Face of God
+<hi>himſelf.</hi>
+            </p>
+            <p>To this purpoſe we are to obſerve, what God ſaid of King <hi>Cyrus,</hi> an
+<hi>Heathen,</hi> an <hi>Infidel,</hi> a <hi>Foreigner,</hi> no more related unto him than a
+<hi>Philiſtine,</hi> or an <hi>A<g ref="char:EOLhyphen"/>malekite</hi> Prince, yet all this notwithſtanding he calls him his <hi>Anointed,</hi> Iſ. 45. <hi>Thus ſaith the Lord to his Anointed, to</hi> Cyrus,
+<hi>whoſe right hand I have holden</hi> (or ſtrengthned with Power) <hi>v.</hi> 1.<hi>—I have even called thee by thy name; I have ſurnamed thee, though thou haſt not known me,</hi> v.
+4.</p>
+            <p>
+               <pb n="8" facs="tcp:50189:7"/> This was <hi>Prophetically</hi> ſpoken, for at this time <hi>Cyrus</hi> was not ſo much as <hi>Born:</hi> And when he came to be King of <hi>Perſia</hi> he was no more Anointed <hi>there,</hi> than <hi>Nero</hi> was at <hi>Rome;</hi> and yet, as the <hi>Prophet</hi> calls the <hi>former</hi> God's <hi>Anointed,</hi> ſo the <hi>Apoſtle</hi> calls the
+<hi>latter</hi> the <hi>Miniſter of God,</hi> the <hi>Ordained</hi> of God; and both
+<hi>Iſaiah</hi> and St. <hi>Paul</hi> ſpake ſo upon <hi>theſe</hi> grounds, becauſe all Lawful Princes are endued with <hi>God's</hi> Power and Authority, whereof the <hi>Material</hi> and <hi>Ceremonial</hi> Unction among the <hi>Jews,</hi> was a <hi>Signification</hi> and
+<hi>Argument</hi> only.</p>
+            <p>Now do but <hi>compare</hi> all this, with what is recor<g ref="char:EOLhyphen"/>ded of <hi>Saul,</hi> whom
+<hi>David</hi> ſpeaks of in my Text, and ſtyles him, <hi>The Lord's Anointed.</hi> Not very long af<g ref="char:EOLhyphen"/>ter he came to the Crown, out of Timorouſneſs and Infidelity, he offered up Sacrifice
+<hi>himſelf</hi> in <hi>Samuels</hi> 
+               <note place="margin">1 Sam. 13.</note> abſence, and therein he was an <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> of the <hi>Prieſt<g ref="char:EOLhyphen"/>ly</hi> Office. Afterwards, he ſpared the King of <hi>Amalek,</hi> 
+               <note place="margin">c. 15.</note> and the beſt of the ſpoil, contrary to what he was required to do; and therein he was a <hi>Rebel</hi> againſt Gods Commands. After this, he ſought the life of <note place="margin">c. 18.</note> 
+               <hi>David</hi> (the beſt Subject, that ever any Prince had) and would have ſtruck him to the wall with a Javelin, and all this for
+<hi>David</hi>'s good Service; therein he was a <hi>Tyrant.</hi> After this, he unjuſtly Kills at once 85 of the Lord's Prieſts, beſides the Men and Women, Child<g ref="char:EOLhyphen"/>ren, <note place="margin">c.
+22.</note> and Sucklings that were in <hi>Nob;</hi> and therein he was a <hi>Murderer.</hi> After this, he forſaketh the <hi>Lord</hi> for the <hi>Devil,</hi> and conſulteth a <hi>Witch</hi> at
+<hi>Endor;</hi> and therein <note place="margin">c. 28.</note> he was an <hi>Apoſtate.</hi> And after all this, laſt of all, as if he could not periſh by any impurer hands than his own, he ruſheth on the point of his Sword, en<g ref="char:EOLhyphen"/>deavours <note place="margin">c. 31.</note>
+               <pb n="9" facs="tcp:50189:7"/> deavours and attempts his own final Deſtruction; and therein he was a
+<hi>Self-Homicide.</hi>
+            </p>
+            <p>Notwithſtanding all theſe Sins, he was the <hi>Lord's Anointed</hi> ſtill; and <hi>David own'd, treated, rever'd</hi> and in the end <hi>vindicated</hi> him, as the <hi>Lord's Anointed.</hi> He diſtinguiſh't between the <hi>Sinner,</hi> and the <hi>Prince;</hi> He look't upon his Perſonal <hi>Crimes</hi> with one eye, and upon his Holy <hi>
+                  <g ref="char:V">Ʋ</g>nction</hi> with another. And if the Scripture may be allowed to bear us out in <hi>any</hi> con<g ref="char:EOLhyphen"/>cluſion, we have warrant enough to infer hence that the Worſt of Kings (ſuppoſing him to be a Lawful King) hath a <hi>Divine</hi> and <hi>Indelible</hi> Character, for the ſake whereof, he ought to be accounted and Honour<g ref="char:EOLhyphen"/>ed as the <hi>Lord's Anointed,</hi> and conſequently as a <hi>Sacred</hi> and <hi>Dread</hi> Soveraign.</p>
+            <p>Nor will it avail us to conſider, <hi>how</hi> or by what <hi>means</hi> he came to his Soveraignty, whether by <hi>Inheritance,</hi> or <hi>otherwiſe.</hi> A Lawful Prince is the Lord's Anointed ever, beholding to God alone for his Power and Authority. <hi>Succeſſion,</hi> or <hi>Conqueſt,</hi> or <hi>E<g ref="char:EOLhyphen"/>lection</hi> may be the <hi>Inſtrument</hi> to <hi>convey</hi> the Title, but the <hi>Deed is Gods,</hi> and the Soveraign Power is a Do<g ref="char:EOLhyphen"/>native and Eſtate which the King holdeth <hi>in Fee</hi> of God, and of God <hi>alone,</hi> whether it be by
+<hi>Nature,</hi> that the Man is brought forth; or whether it be by the <hi>Sword,</hi> that he cuts his way; or whether it be by the <hi>Con<g ref="char:EOLhyphen"/>ſent</hi> of Men, that he is pitch't upon, ſtill theſe are but the <hi>means,</hi> the <hi>ways,</hi> and the <hi>methods</hi> of a Nation, whereby a Prince is brought <hi>to</hi> the Throne: 'Tis God that gives him his Commiſſion to Reign <hi>in</hi> it; the Right of Governing, the Authority he hath over his People, the Power of Life and Death, the Crown
+<pb n="10" facs="tcp:50189:8"/> and Scepter, the Regalities and Prerogatives of a King (however he may diminiſh or give ſome of them a<g ref="char:EOLhyphen"/>way) they are owing only to the Courteſie of
+<hi>Heaven.</hi>
+            </p>
+            <p>In this caſe 'tis neceſſary for us to diſtinguiſh be<g ref="char:EOLhyphen"/>tween the <hi>Power</hi> it ſelf, and the <hi>Choice,</hi> or <hi>Ap<g ref="char:EOLhyphen"/>plication</hi> of the <hi>Perſon</hi> to that
+<hi>Power.</hi> Now, the <hi>Pow<g ref="char:EOLhyphen"/>er</hi> is <hi>God's, by whom Kings Reign:</hi> But <hi>under</hi> God there may be divers <hi>Subordinate, Inſtrumental,</hi> and <hi>Miniſteri<g ref="char:EOLhyphen"/>al</hi> hands to give a man a Right to that Power. Anci<g ref="char:EOLhyphen"/>ently and firſt of all, Monarchical Soveraignty went by Lineal <hi>Deſcent,</hi> and Proximity of <hi>Bloud;</hi> and this was the <hi>Regular</hi> and
+<hi>beſt</hi> way. But in after Ages the Wic<g ref="char:EOLhyphen"/>kedneſs of a few Nations altered this courſe, and Monarchies came to be <hi>Elective.</hi> And though a Prince be <hi>choſen</hi> by the Suffrages of the People, yet this is but a <hi>Qualification</hi> of him to <hi>uſe</hi> that Power, and to <hi>exerciſe</hi> that Authority which is given by the <hi>King of Kings.</hi> Nay, though they <hi>Anoint</hi> and <hi>Crown</hi> him, yet in all this they are the <hi>only</hi> Maſters of the <hi>Ceremonies,</hi> to <hi>declare</hi> their Obligations to Obey, and to
+<hi>Aſſiſt</hi> in the Prince's <hi>Inveſtitures;</hi> ſtill the <hi>Authority</hi> whereby he acteth, the <hi>Subſtantial</hi> and <hi>Eſſential</hi> Unction, is from above. They may put on his <hi>Robes,</hi> and gird him with the <hi>Sword,</hi> and place him in his Imperial <hi>Chair,</hi> and cover his Head with a Royal <hi>Diadem;</hi> but when he is in his Throne, 'tis by a Superior Authority that he <hi>ſtrikes</hi> with his Sword, and by a Divine Com<g ref="char:EOLhyphen"/>miſſion that he <hi>Commandeth, Governeth,</hi> and Mini<g ref="char:EOLhyphen"/>ſtreth Juſtice unto the People which he is ſet over: And ſo <hi>Valentinian</hi> told his Soldiers when they had choſen him Emperor, and asked him ſomething which he did not like; <hi>It was in your Power to chuſe me to</hi>
+               <pb n="11" facs="tcp:50189:8"/> 
+               <hi>rule over you</hi> (ſaid he) <hi>but ſince you have choſen me, what you deſire dependeth not upon yoru pleaſure, but mine. Your buſineſs is as my Subjects, to obey me; and my buſi<g ref="char:EOLhyphen"/>neſs is as your Prince, to order what you are to do.</hi> Though
+<hi>Valentinian</hi> was taken from among the <hi>Soul<g ref="char:EOLhyphen"/>diery,</hi> yet his <hi>Power</hi> was not derived from the <hi>Camp,</hi> but it was from <hi>God,</hi> as King <hi>Soul</hi>'s was, when he was fetch't from among the <hi>Stuff,</hi> 1 <hi>Sam.</hi> 10.</p>
+            <p>Things are beſt underſtood when they are illuſtra<g ref="char:EOLhyphen"/>ted by familiar Inſtances. Take then
+1. an Inſtance in an <hi>Eccleſiaſtical</hi> matter: <hi>Judas</hi> the Traitor being Dead, the Eleven think of Subſtituting ſome other in his Room, and by lot they Elected
+<hi>Matthias,</hi> Act. 1. But <hi>Matthias</hi> was not <hi>their</hi> Delegate, nor did he Act by
+<hi>their</hi> Commiſſion, or in <hi>their</hi> Name, or by <hi>their</hi> Power; but his Authority was from <hi>Chriſt,</hi> as the reſt of the <hi>Apoſtles</hi> was: They indeed pitch't upon the <hi>Man,</hi> but his <hi>Apoſtleſhip,</hi> his Miniſterial
+<hi>Character,</hi> his Power to Preach, to Adminiſter Sacra<g ref="char:EOLhyphen"/>ments, to Bind and Looſe, this Power was from <hi>Heaven.</hi> 2. Take a ſecond Inſtance in an <hi>Oeconomical</hi> matter: Say a <hi>Servant</hi> chuſeth his <hi>Maſter,</hi> or a <hi>Wife</hi> her <hi>Huſ<g ref="char:EOLhyphen"/>band,</hi> each of theft pitch upon the <hi>Man,</hi> but neither of them gives him his <hi>Authority,</hi> but both conſent to <hi>ſubmit</hi> unto it; his Power of Governing his whole Houſe-hold is from <hi>Nature.</hi> 3. Take a third Inſtance yet in a <hi>Political</hi> matter: Say a Pariſh do chuſe their <hi>Conſtable,</hi> or a City their <hi>Mayor,</hi> or a County their
+<hi>Sheriff;</hi> theſe indeed determine upon the <hi>Perſon</hi> but they give them not their
+<hi>Power,</hi> nor do they act in the Names of the <hi>Electors;</hi> but their Authority to keep the Peace, to Diſtrain Goods, to Seize and Execute
+<pb n="12" facs="tcp:50189:9"/> Malefactors, is from the <hi>King,</hi> and the <hi>Kings</hi> Officers they are. Why, much like hereunto is that other Inſtance when a People chuſe their King (though it would be better for the World, if no People did ſo, <hi>Haereditary</hi> Government being the beſt:) After a great deal of Clamour, Diſorder, Animoſity, Strife, Confuſion, Diſtraction, and perhaps <hi>Bloudſhed,</hi> at laſt <hi>Neceſſity</hi> brings them to agree upon the <hi>Man:</hi> But the Kings Authority comes not from the dirty hands of a Rout, nor doth he act in the name of a Soveraign multitude, but his Power is from God: <hi>By his Command Kings are conſtituted, by whoſe pleaſure Men are born; God ap<g ref="char:EOLhyphen"/>points</hi> 
+               <note place="margin">
+                  <hi>Cujus juſſu homines naſcuntur, hujus juſſu &amp; Reges conſtituuntur, apti his qui in illo tempore ab ipſis regantur.</hi> Iren. lib. 5. adv. Haereſ. cap. 24.</note>
+               <hi>them, and fits them according to the condition of the Times,</hi> ſaith <hi>Irenoeus.</hi> And ſo <hi>Tertullian</hi> affirms, that <hi>the Em<g ref="char:EOLhyphen"/>peror is thence, whence the man was be<g ref="char:EOLhyphen"/>fore</hi> 
+               <note place="margin">
+                  <hi>Inde eſt Imperator, unde eſt ho<g ref="char:EOLhyphen"/>mo antequam Imperator. Inde Po<g ref="char:EOLhyphen"/>teſtas illi, unde &amp; Spiritus.</hi> Ter<g ref="char:EOLhyphen"/>tul. Apol. c. 30.</note> 
+               <hi>he was Emperor. He receiveth his Power from the ſame hand which gave him his Spirit.</hi> And elſewhere ſaith he, <hi>We (Chriſtians) worſhip the Emperor ſo</hi> 
+               <note place="margin">
+                  <hi>Colimus Imperatorem ſic quomo<g ref="char:EOLhyphen"/>do &amp; nobis licet, &amp; ipſi expedit, ut hominem à Deo ſecundum; &amp; quicquid eſt, à Deo conſecutum, ſolo Deo minorem.</hi> Tertul. adv. Scapul.</note> 
+               <hi>as 'tis lawful for us, and expedient for himſelf, as a Man next unto God; as one that hath received all that he hath from God; and as one that is inferiour to God alone.</hi>
+            </p>
+            <p>Now, if the caſe be thus, where a Monarchy is <hi>Elective</hi> (as the <hi>Roman</hi> Empire was, whatever is ſug<g ref="char:EOLhyphen"/>geſted to the <hi>contrary)</hi> the Plea is much the <hi>Stronger</hi> for the Divine Authority of a Prince, where the <hi>Crown</hi> deſcendeth by <hi>Inheritance</hi> (as, God be bleſſed it doth with <hi>us,</hi> and for the good of the Kingdom,
+<pb n="13" facs="tcp:50189:9"/> may it deſcend ſtill in that <hi>Natural</hi> and <hi>Peaceful</hi> courſe to the Worlds end.) In this caſe, the Conſent of the People is neither
+<hi>Eſſential</hi> nor <hi>Acceſſory;</hi> as they are not capable of conferring the Authority, ſo they are praecluded the liberty of diſputing about the Perſon (where there is an apparent or undoubted Heir) for <hi>God</hi> and <hi>Nature</hi> have already
+<hi>determin'd</hi> the Controverſie. Men may <hi>Recognize</hi> his Right, (and in point of Conſcience are bound to do ſo) as the Men of <hi>Iſrael</hi> did <hi>Recognize Saul</hi>'s Right, <hi>after</hi> he had been <hi>Anointed;</hi> but where a Kingdom is <hi>He<g ref="char:EOLhyphen"/>reditary,</hi> ones Right taketh place upon the voidance of another's <hi>Poſſeſſion;</hi> which is the ground of that Maxim in our Law (which is the ſharpeſt Dagger in the <hi>Republican</hi>'s Heart) <hi>that the King cannot dye.</hi>
+            </p>
+            <p>I have been the longer upon clearing the account of the Divine Authority of <hi>Kings,</hi> becauſe it was the <hi>only</hi> conſideration which <hi>David</hi> had in his thoughts, when he was moved to proceed ſo ſeverely againſt this <hi>Amalekite,</hi> for offering violence unto <hi>Saul. Quare non Timuiſti?</hi> How came it about that thou waſt not <hi>afraid,</hi> that thy Heart did not ſink, that thy Soul could ſuffer thee to ſtretch forth thine hand to deſtroy the <hi>Lord's Anointed?</hi>
+            </p>
+            <p>And hence we may fairly proceed to Two Con<g ref="char:EOLhyphen"/>cluſions.</p>
+            <p n="1">1. That it is a <hi>Fearful</hi> thing, even to <hi>Reſiſt</hi> the Lord's Anointed. A Fearful thing indeed (according to St. <hi>Paul</hi>'s Divinity) if it be a <hi>Fearful</hi> thing to be <hi>Damned.</hi> For <hi>Oppoſition</hi> tendeth to <hi>Deſtruction;</hi> and there is no more difference between <hi>Reſiſting</hi> and <hi>Kil<g ref="char:EOLhyphen"/>ling,</hi>
+               <pb n="14" facs="tcp:50189:10"/> then there is between the <hi>means</hi> and the <hi>end,</hi> or between putting a Sword to a Princes <hi>Throat,</hi> and direct, <hi>Cutting</hi> it. If he be a Murderer (by <hi>Inter<g ref="char:EOLhyphen"/>pretation)</hi> who Hateth his <hi>Brother,</hi> he muſt be a Regicide (in the intent,) who draweth out his Ar<g ref="char:EOLhyphen"/>tillery againſt his Prince; and Rebels are beholding to our
+<hi>Charity</hi> alone, in <hi>this</hi> as well as <hi>other</hi> caſes, if we do not ſay, that <hi>never</hi> any Subjects drew the Sword againſt their King, but with a
+<hi>Reſolution</hi> (if there was no <hi>other</hi> remedy) to ſheath it in his Bloud.</p>
+            <p>I do not intend (for the Time will not give me leave) to handle the caſe of a
+<hi>Defenſive</hi> War againſt a Rightful <hi>Soveraign</hi> (a caſe, that never was maintain<g ref="char:EOLhyphen"/>ed, but by an <hi>Atheiſt,</hi> or a <hi>Papiſt,</hi> or a
+<hi>Proteſtant-Jeſuite.)</hi> When our Saviour commanded us, <hi>Not to reſiſt evil, Math.</hi> 5. 39. we muſt ſuppoſe him to teach us to ſuffer Indignities with Patience, as well from the hands of a <hi>Superior,</hi> as from the hands of an equal. And when St.
+<hi>Paul</hi> affirms, that <hi>whoſo<g ref="char:EOLhyphen"/>ever reſiſteth the Power, reſiſteth the Ordinance of God, Rom.</hi> 13. 2. we muſt conclude, that a War againſt Lawful <hi>Authority</hi> is a War againſt <hi>Heaven.</hi> And when St. <hi>Peter</hi> requiring us to <hi>Honour the King,</hi> preſently Subjoined, <hi>Servants be Subject to your Maſters with all fear, not only to the Good and Gentle, but alſo to the Froward,</hi> 1 <hi>Pet.</hi> 2. 18. we muſt look upon him to have taught us the neceſſity of <hi>Paſſive</hi> Obedience in the <hi>State,</hi> as well as at <hi>Home;</hi> for otherwiſe it would follow (what is <hi>unreaſonable</hi> to conceive) that <hi>Prin<g ref="char:EOLhyphen"/>ces</hi> have not ſo <hi>much</hi> benefit by the <hi>Goſpel,</hi> for the ſecuring of <hi>their</hi> Authority, as every <hi>Ordinary</hi> and <hi>Private</hi> Man hath.</p>
+            <p>
+               <pb n="15" facs="tcp:50189:10"/> And in ſaying thus much, God is my Witneſs that I aim at no other end, but to vindicate the Doctrine of the Croſs, which divers lately have endeavoured to expoſe to
+<hi>Contempt</hi> and <hi>Deriſion.</hi> But (to return to <hi>David</hi>'s practice in reference to <hi>Saul)</hi> becauſe <hi>David</hi>'s having of an <hi>Army,</hi> has been pleaded by Re<g ref="char:EOLhyphen"/>bels to <hi>juſtifie</hi> Reſiſtance, for the removing of this Objection, many things are to be conſider'd. 1. That <hi>David</hi>'s caſe was <hi>Particular;</hi> for he was already A<g ref="char:EOLhyphen"/>nointed unto the Kingdom, and was <hi>Haeres Viventis</hi> not only Lawful Heir, but as ſure of the Crown as if <hi>Saul</hi> had been dead. 2. That the little Army which <hi>David</hi> had, was not of his own <hi>Raiſing</hi> but they <hi>re<g ref="char:EOLhyphen"/>ſorted</hi> unto him of their own accord; partly for <hi>Refuge-ſake</hi> (for they were <hi>Indigent</hi> and <hi>Diſcontented</hi> Perſons) partly to ſhew <hi>David</hi> their beſt <hi>reſpects;</hi> partly out of
+<hi>Pity</hi> and <hi>Compaſſion</hi> to a wronged Prince (and the Hearts of Men are generally Pitiful and Compaſ<g ref="char:EOLhyphen"/>ſionate in <hi>ſuch</hi> a caſe) and partly to <hi>endear</hi> them<g ref="char:EOLhyphen"/>ſelves to <hi>David,</hi> and to make their Fortunes by him when he ſhould come to the Crown. 3. That when the Men were come, <hi>David</hi> uſed them rather as a Friendly
+<hi>Retinue,</hi> then as a Formidable <hi>Army,</hi> to ſecure his own Life from the hands of
+<hi>Pick-thanks,</hi> who otherwiſe might be ready to ſhed his Bloud to curry favour with
+<hi>Saul,</hi> and <hi>without Saul</hi>'s Order and <hi>Commiſſion.</hi> 4. That when
+<hi>David</hi> imployed his Re<g ref="char:EOLhyphen"/>tinue to <hi>Military</hi> purpoſes and after a <hi>Military</hi> man<g ref="char:EOLhyphen"/>ner, it was againſt thoſe People who were <hi>Enemies</hi> to <hi>Iſrael,</hi> and who by the Command of God were to be <hi>deſtroyed;</hi> and even <hi>then</hi> too <hi>David</hi> acted un<g ref="char:EOLhyphen"/>der King <hi>Achiſh,</hi> as <hi>his</hi> chief <hi>Commiſſioner</hi> and
+<hi>General.</hi>
+               <pb n="16" facs="tcp:50189:11"/> 5. That from the beginning to the end of the whole matter, though
+<hi>David</hi> had ſo many Swords at his command, yet he never once Reſiſted his <hi>own</hi> Dread <hi>Soveraign,</hi> but only <hi>Fled</hi> from him, and Fled with more <hi>ſecurity</hi> then he could have done <hi>otherwiſe.</hi> Nay, though <hi>David</hi> had <hi>two</hi> the
+<hi>faireſt</hi> opportunities, of making <hi>Saul</hi> his <hi>Priſoner,</hi> and of taking away his <hi>Life,</hi> one in the Cave at <hi>Engedi,</hi> 1 <hi>Sam.</hi> 24. and another on the Hill of <hi>Hachilah,</hi> 1 <hi>Sam.</hi> 26. yet ſtill he <hi>forbore</hi> all manner of
+<hi>violence,</hi> at both times uſing this <hi>Heroick</hi> and <hi>Loyal</hi> Expreſſion,
+<hi>The Lord forbid that I ſhould do this thing unto my Maſter the Lord's Anointed, to ſtretch forth mine hand againſt him, ſeeing he is the Anointed of the Lord.</hi>
+            </p>
+            <p n="2">2. Whence I proceed to the <hi>next</hi> concluſion, that the <hi>Deſtruction</hi> of the Lord's Anointed, the ſtretching forth the hand to <hi>Invade</hi> his <hi>Life,</hi> is of all other acts of violence the <hi>moſt Fearful</hi> and <hi>Horrid</hi> Crime. <hi>The Lord forbid that I ſhould do this thing, ſaith David; for who can ſtretch forth his hand againſt the Lord's A<g ref="char:EOLhyphen"/>nointed, and be guiltleſs?</hi> As he ſaid to <hi>Abiſhai,</hi> 1 <hi>Sam.</hi>
+26. 9. For <hi>Subjects</hi> to draw Bloud out of the <hi>Sacred</hi> Heart of their
+<hi>Prince,</hi> to cut his Head off, as though he had not been <hi>Anointed</hi> with
+<hi>Oyl,</hi> to Invade the Life of Gods <hi>Vice-gerent,</hi> and eſpecially to do it, as did the Regicides of <hi>this</hi> day, not in a <hi>Cave,</hi> but before the Face of the
+<hi>Sun,</hi> and at his own <hi>Palace door,</hi> and all this with the utmoſt <hi>Pomp</hi> of Villany, under colour of <hi>Juſtice,</hi> by <hi>formal</hi> Proceedings, after a
+<hi>Judicial</hi> manner, with an unheard of <hi>Pageantry</hi> of <hi>Conſcience</hi> and
+<hi>Religion:</hi> After they had taken off his <hi>Crown,</hi> and as it were, cut off his
+<hi>Hands;</hi> after they
+<pb n="17" facs="tcp:50189:11"/> had <hi>Hunted</hi> him from his <hi>Houſe</hi> to the <hi>Camp;</hi> and from <hi>Field</hi> to <hi>Field,</hi> at laſt to <hi>Arraign</hi> the beſt of Kings as a
+<hi>Malefactor,</hi> to Condemn him as a <hi>Tyrant,</hi> to Dragg him to the Scaffold as a
+<hi>Traitor,</hi> and there to cut off his Neck as a <hi>Dog; Bleſſed Jeſu!</hi> Since the foundations of the World were laid, the like in<g ref="char:EOLhyphen"/>ſtance, with all its <hi>circumſtances</hi> was never known; no <hi>Humane</hi> Hiſtory can afford us a <hi>Parallel;</hi> nothing that can come near it, unleſs it be that inſtance <hi>late<g ref="char:EOLhyphen"/>ly</hi> obſerved of <hi>Conradine</hi> the King of <hi>Naples,</hi> who after ſuch a manner (but upon <hi>different</hi> pretenſions) was
+<note place="margin">Dr. <hi>Turners</hi>'s Sermon before the King, 1680/1.</note> Arraigned and Murdered in his own City upon a Scaffold: And as that was done by pretending <hi>Catho<g ref="char:EOLhyphen"/>licks,</hi> ſo this was done by pretending <hi>Proteſtants:</hi> They <hi>ſet</hi> the Copy, and theſe took it <hi>out,</hi> and in as Bloudy a Character; ſo true is that obſervation, that there was hardly ſo <hi>much</hi> as a pair of <hi>Sheers</hi> between the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; no more difference indeed than between <hi>Judas</hi> and
+<hi>Iſcariot.</hi>
+            </p>
+            <p>When <hi>David</hi> had privily cut off the <hi>skirt</hi> of <hi>Saul</hi>'s <hi>robe</hi> (though it was only with a deſign to let him <hi>ſee</hi> that he had been in his
+<hi>Power)</hi> his Heart ſoon <hi>Smote</hi> him, as if he had made a Breach upon Gods Law, and had been guilty of a very <hi>
+                  <g ref="char:V">Ʋ</g>nworthy</hi> and <hi>Diſloyal</hi> Act (for the Oyl upon a Kings Head (like the Ointment upon the Head of <hi>Aaron</hi> that deſcended upon his skirts) makes even his Veſtments Sacred.) But with what Agonies and Convulſions would his Soul have been
+<hi>Tortured,</hi> had the King of <hi>Iſrael</hi> been mocked by ſuch a <hi>Juncto</hi> of
+<hi>Jews,</hi> as on <hi>this</hi> day Butcher'd the King
+<pb n="18" facs="tcp:50189:12"/> of <hi>England,</hi> and in the name of the <hi>Lord</hi> vied for Wic<g ref="char:EOLhyphen"/>kedneſs with all the Devils in <hi>Hell?</hi>
+            </p>
+            <p>The ſtory of <hi>Saul</hi>'s Death is a very ſad relation, all the <hi>Parts</hi> and
+<hi>Appurtenances</hi> thereof, together with <hi>Saul</hi>'s <hi>own</hi> Guilt, and the Sin of his <hi>Armour-bearer,</hi> and this <hi>Amalekite</hi> being rightly conſidered. But yet there are ſome paſſages in the ſtory, which it may not be amiſs for us to obſerve:</p>
+            <p n="1">1. Concerning the <hi>Armour-bearer. Saul Comman<g ref="char:EOLhyphen"/>ded</hi> him to draw his Sword, and to thruſt him through therewith, being deſirous rather to Dye by the hands of his own
+<hi>Servant,</hi> than to be Abuſed by the Un<g ref="char:EOLhyphen"/>circumciſed <hi>Philiſtines.</hi> But notwithſtanding the Kings own <hi>Command,</hi> the Armour-bearer <hi>refuſed</hi> to hearken in that particular; he durſt not obey the King to the Deſtruction of Majeſty; <hi>he was ſore afraid,</hi> ſaith the Text, 1 <hi>Sam.</hi> 31. 4. Read on now to the next v. and you will find, that this Armour-bearer feared <hi>not</hi> to Kill <hi>himſelf,</hi> though he was ſore <hi>afraid</hi> to Kill his <hi>Soveraign.</hi> By which inſtance it is clear, not only that he valued his <hi>Prince</hi> his Life far above his <hi>own,</hi> but alſo that he thought it much a more pardonable Sin to be a <hi>ſelf Murderer,</hi> than to be a <hi>Regicide,</hi> though tempted to be ſo by his Soveraigns <hi>Command.</hi> Doubt<g ref="char:EOLhyphen"/>leſs, for a Man to Kill
+<hi>himſelf</hi> is a very <hi>Horrid</hi> Sin, becauſe it is his <hi>laſt</hi> Act, whereby (in <hi>Humane</hi> pro<g ref="char:EOLhyphen"/>bability) he hurryeth himſelf off the <hi>Earth</hi> into <hi>Hell.</hi> Yet this Armour-bearer choſe rather to <hi>Dye</hi> with the Guilt of his <hi>own</hi> Bloud upon his hands, than to <hi>Live</hi>
+               <pb n="19" facs="tcp:50189:12"/> Guilty of the Bloud of the <hi>Lord's Anointed;</hi> and be<g ref="char:EOLhyphen"/>fore he would be ſuch a <hi>Traitor,</hi> ran a ſad venture of being <hi>Damned</hi> for ever, by being <hi>Felo de ſe.</hi>
+            </p>
+            <p n="2">2. And then as for the <hi>Amalekite,</hi> that did effectu<g ref="char:EOLhyphen"/>ally <hi>help on</hi> the Deſtruction of <hi>Saul,</hi> though he did it not of <hi>Malice,</hi> but upon <hi>Saul</hi>'s
+<hi>intreaty;</hi> though he did it when <hi>Saul</hi> was now half <hi>breathleſs,</hi> and when he was <hi>ſure</hi> otherwiſe to be Killed by the <hi>Philiſtines,</hi> though he did it to rid him of his preſent <hi>Fear</hi> and <hi>Pains,</hi> and ſtruck him more like a
+<hi>Friend,</hi> than an <hi>Ene<g ref="char:EOLhyphen"/>my,</hi> doing no other than what <hi>Saul</hi> himſelf had already done in <hi>part;</hi> yet this <hi>Regicides</hi> Conſcience ſeems to have been
+<hi>troubled</hi> preſently at an exceſſive rate: His breaſt was filled with
+<hi>Remorſe,</hi> and <hi>Anguiſh,</hi> and <hi>Bitterneſs</hi> of <hi>Spirit,</hi> ſo that he could not but put on a <hi>Mournful</hi> and <hi>Penitential Habit;</hi> for he ran to
+<hi>David</hi> with his <hi>Clothes Rent, and with Earth upon his Head,</hi> Confeſſing by his
+<hi>Actions,</hi> that he had committed an Abominable <hi>Crime,</hi> when his Lying
+<hi>Tongue</hi> pretended that he had done a <hi>meritorious</hi> Act.</p>
+            <p>And yet (which is obſervable) this Regicide was no Subject of <hi>Saul</hi>'s, but a
+<hi>Stranger,</hi> an <hi>Alien from the Common-wealth of Iſrael,</hi> an <hi>Amalekite.</hi> Lord! What Soul is able I do not ſay to <hi>Aggravate,</hi> but to <hi>Meaſure</hi> the Guilt of the <hi>Regicides</hi> of this day? <hi>Regi<g ref="char:EOLhyphen"/>cides,</hi> that acted not only <hi>without</hi> any <hi>pretended</hi> Com<g ref="char:EOLhyphen"/>mands or Allowance of <hi>Juſt</hi> Authority (though all the Powers on Earth could not have made a Law <hi>competent</hi> or <hi>tolerable</hi> in this caſe) but ſhed the Bloud of
+<pb n="20" facs="tcp:50189:13"/> the Lord's Anointed, <hi>contrary</hi> to all Law of <hi>God,</hi> of
+<hi>Nature,</hi> and of the <hi>Land</hi> too. <hi>Regicides,</hi> that were <hi>Amalekites</hi> indeed, as to <hi>Faith, Religion, Conſcience</hi> and <hi>Inhumanity,</hi> but otherwiſe the Kings own <hi>Natural</hi> and <hi>Born-Subjects,</hi> that owed him Fealty and Loyal<g ref="char:EOLhyphen"/>ty from the
+<hi>Womb,</hi> that had often <hi>renewed</hi> their <hi>Na<g ref="char:EOLhyphen"/>tural</hi> Obligations by ſeveral
+<hi>voluntary</hi> and the moſt Solemn <hi>Profeſſions, Promiſes</hi> and <hi>Vows,</hi> that had many times repeated the Sacred and Strict Oaths of <hi>Supre<g ref="char:EOLhyphen"/>macy,</hi> and
+<hi>Allegiance;</hi> and beſides all this, that in a <hi>Solemn League and Covenant</hi> of their
+<hi>own</hi> had Sworn <note place="margin">Article 3.</note> 
+               <hi>to Preſerve and Defend the Kings Majeſties Perſon and Authority, that the World</hi> (ſaid they) <hi>may bear wit<g ref="char:EOLhyphen"/>neſs with our Conſciences of our Loyalty, and that we have no Thoughts or Intentions to diminiſh his Majeſties juſt Power and Greatneſs: Regicides, that Vowed</hi> and <hi>Swore</hi> all this, and that with reſpect to <hi>the Glory of God, to the advancement of Chriſts Kingdom, to the Honour and Happineſs of the Kings Majeſty, and his Poſterity, and with Hands lifted up to the moſt High God,</hi> as ſaith the <hi>Preamble</hi> to that <hi>Covenant.</hi> But never do
+<hi>Hypocrites</hi> hands fall more <hi>heavy,</hi> than when they have been <hi>lifted up</hi> in Gods Worſhip: A Traitor is <hi>then</hi> moſt Formidable, when he has been at a <hi>Test,</hi> or at a <hi>Sacrament,</hi> or at a <hi>Prayer (Judas</hi> was <hi>fulleſt</hi> of Miſchief, when he had been at the <hi>Diſh</hi> and the <hi>Sop.)</hi> To anſwer all theſe
+<hi>Declarations, Vows,</hi> and <hi>Oaths,</hi> as at firſt they <hi>lifted up their Hands to the moſt High God,</hi> ſo at laſt they ſtretched forth their hands to Murder <hi>Gods Anointed,</hi> and they Murder'd him in <hi>cold Bloud,</hi> and after <hi>Deliberation,</hi> and
+<hi>Council,</hi> and
+<pb n="21" facs="tcp:50189:13"/> 
+               <hi>Faſting,</hi> and (as their Phraſe was) when they had been
+<hi>ſeeking the Lord</hi> too.</p>
+            <p>This very <hi>Amalekite</hi> will one day riſe up in Judg<g ref="char:EOLhyphen"/>ment againſt thoſe
+<hi>Regicides,</hi> and will condemn them; for he ſeem'd to <hi>Repent</hi> when he had done the Fact, <hi>he Rent his Clothes, and put Aſhes upon his own Head,</hi> for the violence that he had offered to the <hi>A<g ref="char:EOLhyphen"/>nointed</hi> one. But <hi>theſe</hi> Regicides inſtead of
+<hi>Relent<g ref="char:EOLhyphen"/>ing</hi> or being <hi>Smitten</hi> in their Hearts, were of <hi>Re<g ref="char:EOLhyphen"/>probate</hi> Minds, and of <hi>Seared</hi> Conſciences, being paſt Feeling <hi>any</hi> thing but the Fire of
+<hi>Hell:</hi> They <hi>perſiſted</hi> in hardneſs above that of <hi>Judas,</hi> or of
+<hi>Cain:</hi> They <hi>own'd</hi> the Villany, and endeavoured to <hi>Juſtifie</hi> that as a Noble, Heroick and <hi>Godly</hi> Exploit, which made all Churches abroad (but <hi>Rome)</hi> to be
+<hi>aſham'd,</hi> and all Foreign Nations, not only the <hi>Chriſtian</hi> World, but even
+<hi>Infidels</hi> and <hi>Barbarians</hi> to <hi>Abhorr</hi> all <hi>Engliſh</hi> men, as ſo many Savage <hi>Dogs.</hi>
+            </p>
+            <p>Nor was this the Wickedneſs of <hi>Dathan</hi>'s and <hi>Abiram</hi>'s only, but
+<hi>Korah</hi>'s and Sons of <hi>Levi</hi> were found alſo, ſome that to <hi>Poize</hi> the Veſſel had a great hand in caſting the <hi>Pilot</hi> over board, ſome that
+<hi>inten<g ref="char:EOLhyphen"/>tionally</hi> Preached off the Crown from his Majeſties Head; ſome that
+<hi>drove</hi> him to the Block; ſome that were <hi>upon,</hi> or not far <hi>off</hi> from the
+<hi>Scaffold;</hi> and ſome too, that made the Sound of the Blow to Eccho in the <hi>Temple,</hi> and did not ſtick <hi>with hands lifted up too,</hi> to <hi>Sanctifie</hi> the Fact in the very
+<hi>Pulpit.</hi> And I cannot but take notice of one <hi>ſingular</hi> Inſtance, out of due
+<pb n="22" facs="tcp:50189:14"/> reſpects to a certain <hi>Doctor</hi> ſtill <hi>Living,</hi> and in great Vogue, that on <hi>Jan.</hi> 31. 1648. the very day next <note place="margin">
+                  <hi>Jo. Owens</hi> Ser<g ref="char:EOLhyphen"/>mon <hi>Jan.</hi> 31. 1648. dedica<g ref="char:EOLhyphen"/>ted to the Commons. pag. 7.</note> after the
+<hi>Murdering</hi> of the <hi>King,</hi> as he was <hi>holding forth</hi> to the <hi>Regicides</hi> (whom he complemented, as the <hi>viſible Inſtruments of the Work of the Lord)</hi> and ſpeaking with reference to the <hi>things that had been found in England,</hi> he inſiſted much upon the Sins of <hi>Manaſſeh Son of Hezekiah King of Judah,</hi> ſpake of his
+<hi>falſe Worſhip, Superſtition</hi> and <hi>Cruelty,</hi> and of the Apoſtacy of thoſe who flattered him in his <hi>Tyranny</hi> for <note place="margin">
+                  <hi>ibid.</hi> p. 5.</note> their own advantage, and poſitively aſſerted, that <hi>when Kings turn Seducers, both the Blind Leaders, and Blind Followers Juſtly fall into the Ditch;</hi> and that, <hi>when Kings Command unrighteous things, and People ſuit them with a willing Complyance, none doubts, but the Deſtruction of them both is Just and Righteous.</hi>
+            </p>
+            <p>Come thy ways now, my <hi>Honest Amalekite</hi> (Hon<g ref="char:EOLhyphen"/>eſt in <hi>compariſon)</hi> who, though thou waſt not afraid to ſtretch forth thine hand to deſtroy the King of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> yet, for ought we know, didſt never ſuffer thine Heart to ſwell againſt thine <hi>own</hi> Soveraign; didſt never trample Faith and True Allegiance to thy <hi>Natural</hi> Prince, under thy Feet; didſt never break <hi>Covenants,</hi> nor violate <hi>Oaths,</hi> nor any ways
+<hi>further</hi> or <hi>abett</hi> the Bloudſhedding of the King of <hi>Amalek;</hi> nor didſt ever <hi>harden</hi> thy Heart to that Deſperate State of <hi>Impenitence, Deadneſs</hi> or
+<hi>Reprobation,</hi> as to <hi>Juſtifie</hi> and <hi>Vindicate</hi> the moſt <hi>Horrid</hi> Act of <hi>Treaſon,</hi> with hands <hi>ſtretched out</hi> and <hi>lifted up before the moſt High</hi>
+               <pb n="23" facs="tcp:50189:14"/> 
+               <hi>God,</hi> as did thoſe Sons of <hi>Belial,</hi> the Regicides of
+<hi>this</hi> day.</p>
+            <p>And yet behold, a <hi>Greater</hi> Prince than either the King of <hi>Amalek</hi> or
+<hi>Saul,</hi> was here: Greater for his <hi>Lineage</hi> and <hi>Extraction;</hi> Greater for his
+<hi>Wiſdom, Faith,</hi> and <hi>Conſtancy</hi> to the <hi>Truth;</hi> Greater for all Vertues
+<hi>Divine, Moral, Political;</hi> Greater <hi>every</hi> ways, but in the eſteem of Men and in the Hearts of his own Subjects, and only too <hi>Great</hi> by being too <hi>Good</hi> for a moſt
+<hi>
+                  <g ref="char:V">Ʋ</g>nthankful</hi> and <hi>Improvident</hi> Nation.</p>
+            <p>To draw now towards a concluſion, The deſign of this diſcourſe is not ſo much to expoſe the <hi>Traytors,</hi> as to Repreſent the Exceſſive Sinfulneſs of the
+<hi>Treaſon</hi> of this day, to the End that we and our Poſterity may ſee what reaſon all of us have to be truly Hum<g ref="char:EOLhyphen"/>bled under the Senſe of it. For murder is a <hi>Crying</hi> Sin, that filleth <hi>Heaven</hi> with its Noiſe and Clamour: And one reaſon of it is, becauſe it is not only an In<g ref="char:EOLhyphen"/>jury againſt the <hi>Man</hi> but moreover a Contumely offer<g ref="char:EOLhyphen"/>ed to the Majeſty of <hi>God,</hi> whoſe Image <hi>the Man</hi> bears; and therefore <hi>Philo</hi> the Jew calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">Philo de Spec. Leg.</note> 
+               <hi>Sacriledge,</hi> and the
+<hi>Greateſt</hi> of all ſorts of <hi>Sacriledge.</hi> Nay, it is of ſuch a <hi>Staining</hi> nature, that it polluteth a whole <hi>Land;</hi> as God himſelf ſaid, <hi>Bloud it defileth the Land, Num.</hi> 35 33. And an Inſtance hereof we have upon <hi>Saul</hi>'s killing the
+<hi>Giheonites:</hi> He ſlew them indeed in his Zeal to the Children of <hi>Iſrael</hi> and
+<hi>Judah;</hi> but though 'twas His Fact and
+<pb n="24" facs="tcp:50189:15"/> Cruelty, yet a Three years Famine came upon the <hi>Land</hi> for it, 2
+<hi>Sam.</hi> 21. 1.</p>
+            <p>And if <hi>all</hi> Innocent Bloud ſtaineth a <hi>Nation</hi> ſo, how much more the ſhedding of Bloud <hi>Royal,</hi> the Bloud of <hi>Kings,</hi> who in reſpect of their High
+<hi>Office</hi> and Su<g ref="char:EOLhyphen"/>preme <hi>Authority</hi> Repreſent God above all others, and bear his Image and Impreſs after a <hi>Peculiar</hi> and <hi>Emi<g ref="char:EOLhyphen"/>nent</hi> manner.</p>
+            <p>I muſt confeſs, that I cannot but ſtill own my Fears, that our <hi>Land</hi> is not yet throughly cleanſed from the Bloud of that <hi>Innocent, Vertuous, Religious, Matchleſs</hi> Prince, who was ſo Barbarouſly murder'd among us on this day. For though we may believe, that the merciful God will not require that Sacred Bloud of us, ſo as to make us ſmoak under that Wrath which is the vengeance of another life, <hi>(<g ref="char:V">Ʋ</g>s</hi> eſpecially, who cannot Read, nor ſo much as <hi>Think</hi> of that Diſmal Tragedy without the deepeſt <hi>Sorrow, Hatred</hi> and <hi>Abomination)</hi> yet we have too great Reaſon to ſuſpect that the Sin is not Forgotten in <hi>Heaven,</hi> that there is no ſuch <hi>Act of Oblivion There,</hi> but that as we have Smarted for that Sin <hi>already,</hi> ſo we may Smart ſtill under thoſe Plagues and Judgments which are the Diſcipline of this life. We are to diſtinguiſh between a <hi>Sin</hi> and its <hi>Puniſhment.</hi> The <hi>Sin</hi> may be <hi>forgiven,</hi> and upon true Repentance is certainly for<g ref="char:EOLhyphen"/>given, ſo that it ſhall not Riſe up in Judgment againſt the Sinner at the
+<hi>laſt</hi> day: But ſeldom does the Cry of a <hi>Vocal</hi> Sin <hi>ceaſe</hi> before God letteth looſe ſome
+<pb n="25" facs="tcp:50189:15"/> 
+               <hi>Temporal</hi> Judgments upon it; either for the <hi>warning</hi> and
+<hi>Admonition</hi> of <hi>other</hi> Men, or for the <hi>Correction</hi> and <hi>Reformation</hi> of the Sinners <hi>themſelves,</hi> or for the ex<g ref="char:EOLhyphen"/>erciſing of their <hi>Patience,</hi> or for the like <hi>Holy</hi> and <hi>Gracious</hi> purpoſes. The <hi>thing</hi> is clear from that In<g ref="char:EOLhyphen"/>ſtance concerning <hi>David,</hi> whom God viſited with the Death of his Child, and with other Sharp and Poynant Evils, for the Wickedneſs acted upon <hi>Bathſheba</hi> and her Husband, though the Sin it <hi>ſelf</hi> was for<g ref="char:EOLhyphen"/>given him. <hi>The Lord hath put away thy Sin, thou ſhalt not die,</hi> ſaid Nathan; <hi>Howbeit, becauſe by this deed thou haſt given great Occaſion to the Enemies of the Lord to Blaſpheme, the Child that is born unto thee ſhall ſurely die,</hi> 2 <hi>Sam.</hi> 12.</p>
+            <p>Nor is it a juſt Ground for our <hi>Confidence</hi> and <hi>Se<g ref="char:EOLhyphen"/>curity</hi> to conſider, that the Sin of this day was acted by a <hi>Few</hi> (in compariſon) and that ſeveral years
+<hi>agoe</hi> too.</p>
+            <p>For, the Sin of <hi>One</hi> Man (and much rather of an <hi>Army)</hi> may be ſo Odious and Abominable in Gods Account, that by <hi>Occaſion</hi> thereof he may viſit the Iniquities of a whole <hi>Nation.</hi> Let us go to <hi>Achan</hi> for an Inſtance: Upon the Deſtruction of
+<hi>Jericho Achan</hi> found a <hi>Babyloniſh Garment, a wedge of Gold, and two hundred Sheckles of Silver; and becauſe He took of the Accurſed</hi> thing, the Anger of the Lord was kindled againſt the whole Body of the Children of <hi>Iſrael,</hi> ſo that at the very next Battel, they were all <hi>Routed</hi> by their Enemies, <hi>Joſh.</hi> 7.</p>
+            <p>
+               <pb n="26" facs="tcp:50189:16"/> 2. Again, God is not wont to puniſh a Nation to the <hi>Full</hi> aſſoon as the Sin is <hi>committed,</hi> but uſu<g ref="char:EOLhyphen"/>ally <hi>leaves</hi> a great part of the Burden, many
+<hi>Ta<g ref="char:EOLhyphen"/>lents</hi> of Judgment to fall down in <hi>after-times,</hi> to put Men ſtill in
+<hi>mind</hi> of that Guilt, which other<g ref="char:EOLhyphen"/>wiſe they would bury in perpetual <hi>Oblivion.</hi> Let us go for an Inſtance hereof to the <hi>Jews</hi> in the days of <hi>Moſes.</hi> At
+<hi>Shittim</hi> they joyn themſelves to <hi>Baal-Peor,</hi> and a <hi>Plague</hi> enſueth thereupon. But, though for <hi>Phinehas</hi> his Zeal the Plague was ſoon ſtayed, and the Wrath of God was turned away from <hi>Iſrael</hi> for <hi>that</hi> time, yet <hi>afterwards</hi> in the days of <hi>Joſhua,</hi> when the <hi>Iſraelites</hi> had been Poſſeſſed of the Holy Land, <hi>Phinehas</hi> himſelf Remembred the Iniquity of <hi>Peor,</hi> and told the People that <hi>they were not cleanſed from that Iniquity unto that day, Joſh.</hi> 22. 17.</p>
+            <p>Now (to draw down this Conſideration to our <hi>ſelves)</hi> if God be wont by way of
+<hi>Diſcipline</hi> to chaſtize Evil Men as a <hi>Governour,</hi> even after he has taken away the Guilt of their Wickedneſs as a <hi>Judg;</hi> if by Occaſion of <hi>One</hi> crying Sin, committed by a <hi>Few,</hi> or perhaps by <hi>One</hi> only, he doth ſome<g ref="char:EOLhyphen"/>times bring Calamities upon a whole <hi>Nation;</hi> and if this be often done ſome Conſiderable <hi>time,</hi> ſome
+<hi>years after</hi> the Sin was acted: Then truly, we of all People living have moſt Reaſon to call to mind the Calamities we have groaned under, and to Inter<g ref="char:EOLhyphen"/>pret Providence the <hi>Right</hi> way, and not only to <hi>miſ<g ref="char:EOLhyphen"/>truſt</hi> that God hath viſited us, hitherto, but more<g ref="char:EOLhyphen"/>over
+<pb n="27" facs="tcp:50189:16"/> to <hi>Fear</hi> that he will viſit us ſtill (eſpecially, if we Repent not from the bottom of our Hearts) for that <hi>Loud and Clamorous</hi> Sin of this day, the Deſtruction of the <hi>Lords Anointed</hi> (and a Man ac<g ref="char:EOLhyphen"/>cording to Gods own Heart too) though he was De<g ref="char:EOLhyphen"/>ſtroyed and Murder'd, not by our <hi>own</hi> Hands, but by the Hands of a Few
+<hi>Amalekites,</hi> and that above Thirty years <hi>ago.</hi>
+            </p>
+            <p>To come a little cloſer yet: Of all the People of this Land, <hi>You</hi> of this
+<hi>City</hi> are very deeply con<g ref="char:EOLhyphen"/>cern'd, to lay your Hands upon your Breaſts, and your Mouths in the Duſt, and the Sin of this day to every one of your Hearts. For, though (God be bleſſed) we can truly ſay and Boaſt, That this <hi>City</hi> (nay this Kingdom) was never more Happy than it is this day, for that great Number we have here of Brave, Heroick and <hi>Right Loyal</hi> Spirits (witneſs their <hi>Generous,</hi> and <hi>Succeſsful,</hi> when they were thought Deſperate Adventures of <hi>Late,</hi> to ſtop that Torrent of Wickedneſs which was coming in
+<hi>afreſh</hi> upon us, and God alone Knows how far it would have gone, and how many it would have ſwept away, had it not been ſtopt<hi>:</hi> Yet all this notwithſtanding, it is neceſſary for you to Remember the days of old, and the years that are paſt and not ſuffer the Horrid Sin of this day, or the Judgments which God hath executed upon this City, to ſlip out of your minds or to be paſt over <hi>lightly,</hi> without a due <hi>Senſe</hi> and
+<hi>Application</hi> thereof.</p>
+            <p>
+               <pb n="28" facs="tcp:50189:17"/> Now, what if we ſhould conceive, that <hi>when this City</hi> was turned into a Flaming pile, the righteous God came to purge it from the Bloud of his <hi>Anointed?</hi> When the <hi>Jews</hi> of old were in any ſharp afflictions, the buſineſs of the <hi>Golden Calf</hi> uſually came freſh in<g ref="char:EOLhyphen"/>to their Minds, and on every turn they miſtruſted, that God afflicted them for the iniquity of their Fathers in making a <hi>Golden Calf.</hi> The ſtory of it you have at large in <hi>Exod.</hi> 32. the People would have ſome Repreſentation to go before them <hi>inſtead</hi> of <hi>Moſes</hi> their proper <hi>Captain</hi> and
+<hi>Leader;</hi> they prevailed with <hi>Aaron</hi> to <hi>conſent</hi> and <hi>concurr</hi> with them, and they con<g ref="char:EOLhyphen"/>tributed their <hi>Riches,</hi> their <hi>Gold</hi> and their <hi>Ear-rings</hi> to carry on the Work of the day; and at laſt out came a <hi>Calf,</hi> a little
+<hi>Similitude</hi> of the Great <hi>Idol,</hi> which was Worſhipped in the Houſe of Bondage, whence they had now been delivered, ſo that, though they had eſcaped out of <hi>Egypt,</hi> yet they eſpouſed the <hi>Egyptian Religion.</hi> To <hi>Accomodate</hi> this ſtory a little: We muſt acknowledg, that God had marvellouſly delivered <hi>us</hi> too out of <hi>Our</hi> Houſe of Bondage (chang<g ref="char:EOLhyphen"/>ing only the names, <hi>Rome</hi> for <hi>Egypt)</hi> we had a
+<hi>Moſes</hi> too ſet over us, <hi>Meek</hi> and <hi>Good,</hi> and one that <hi>was Learned in all the Wiſdom of the Egyptians:</hi> But the <hi>People</hi> were Sick, to have an Idol of their <hi>own</hi> make<g ref="char:EOLhyphen"/>ing in the room of their <hi>Moſes;</hi> and ſome that wait<g ref="char:EOLhyphen"/>ed at the
+<hi>Altar</hi> had a Stomach that way too; and the <hi>Zealots</hi> of <hi>this City</hi> would not fail of their utmoſt help, but brought their <hi>Riches</hi> into <hi>Guild-Hall,</hi> their
+<hi>Money, Plate</hi> and <hi>Rings,</hi> and even their <hi>Thimbles</hi> and <hi>Bod<g ref="char:EOLhyphen"/>kins;</hi> and what came of this at laſt? Why truly
+<pb n="29" facs="tcp:50189:17"/> out came a <hi>Calf,</hi> a <hi>Golden Calf,</hi> a <hi>Dainty</hi> thing that had coſt great <hi>Sums</hi> but yielded no <hi>Milk,</hi> a <hi>Religion</hi> like that
+<hi>Idol</hi> which we had been Delivered <hi>from,</hi> full of <hi>Superſtition</hi> and
+<hi>Jeſuitiſm</hi> in the belly of it, and differing no more from <hi>Popery,</hi> than a
+<hi>Calf</hi> differeth from an <hi>Ox.</hi>
+            </p>
+            <p>And why ſhould we not think now, that when God viſited us with his Judgments, he did not remem<g ref="char:EOLhyphen"/>ber Peoples Ingratitude to him and his Anointed? Or why ſhould we not Fear that he will remember us <hi>again,</hi> and that with <hi>more</hi> Sore and <hi>more</hi> Dreadful Judgments, if People <hi>perſiſt</hi> in their Ingratitude ſtill? For this is a Sin of no
+<hi>ordinary</hi> rate, but one of the <hi>Firſt</hi> Magnitude; the Kings Authority being a Do<g ref="char:EOLhyphen"/>native of <hi>Heaven,</hi> and a Ray of Gods Majeſty, and his Power to Govern and Puniſh being given by Gods own Warranty, the Sin of <hi>Rebellion</hi> muſt neceſſarily be of a
+<hi>Da<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>g</hi> Nature, and of a
+<hi>Clamorous</hi> Tongue, however forme (whoſe Conſciences are <hi>Armour-proof</hi> againſt all Arguments from <hi>Scripture</hi> and <hi>Anti<g ref="char:EOLhyphen"/>quity)</hi> have begun <hi>again</hi> to ſpeak of the <hi>Lawfulneſs</hi> of Reſiſtance, as if their hands were <hi>already</hi> laid up<g ref="char:EOLhyphen"/>on the Hilts of their Swords.</p>
+            <p>Take heed therefore <hi>(you</hi> eſpecially of this <hi>Great City)</hi> that ye join not in the Confederacies of <hi>Korah,</hi> leſt ye utterly <hi>Periſh</hi> in his gainſaying.
+<hi>Is the Ini<g ref="char:EOLhyphen"/>quity of Peor,</hi> and the Sin of the <hi>Golden Calf</hi> too little for us? Are not the Judgments, which we have groaned under, heavy enough <hi>yet,</hi> but do we ſollicite
+<pb n="30" facs="tcp:50189:18"/> God to add <hi>more</hi> Talents to the weight <hi>ſtill?</hi> Aſ<g ref="char:EOLhyphen"/>ſure your ſelves, that if People Repeat their <hi>Sins,</hi> God will not fail to Repeat and Double his <hi>Blows;</hi> and he hath <hi>more</hi> Judgments in Treaſure beſides the <hi>Plague</hi> and the <hi>Fire;</hi> and the <hi>Poſterity</hi> that cometh after us will (as we our ſelves have done) ſee the Follies, and ſmart greatly for the Impieties of their Fathers; for as
+<hi>Ezra</hi> ſaid upon the Return out of Captivity, <hi>After all that is come upon us for our Evil deeds, and for our Great treſpaſs, ſeeing that God hath puniſhed us leſs than our iniquities deſerve, and hath given us a Deliverance</hi> (a miraculous deliverance out of our Thraldom) <hi>ſhould we again break his Commandments, and join with the People of theſe abominations, would not God be Angry with us till he had Conſumed us, ſo that there ſhould be no Remnant, nor Eſcaping?</hi>
+            </p>
+            <p>For the preventing of the <hi>worſt</hi> of Evils it is our great <hi>Concernment,</hi> and ought to be our great <hi>Care,</hi> and 'twill be found to be our beſt <hi>Intereſt,</hi> when all is done, to lay aſide all Unnatural <hi>Animoſities</hi> and Heart-burnings, which
+<hi>Evil</hi> Men make uſe of to <hi>Di<g ref="char:EOLhyphen"/>ſtract</hi> this Kingdom, and to tear all our Eſtabliſhments in <hi>Church</hi> and <hi>State</hi> into <hi>pieces;</hi> and to be filled with the <hi>True</hi> and <hi>Primitive</hi> Spirit of Chriſtianity; to be Meek, and Gentle, and of Humble Minds; to Act according to that Wiſdom, which is <hi>Pure</hi> and <hi>Peace<g ref="char:EOLhyphen"/>able;</hi> to <hi>Study to be Quiet;</hi> to endeavour by all poſ<g ref="char:EOLhyphen"/>ſible means <hi>to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace;</hi> to be Tractable and Honeſt in Heart; to be ſubject to the Higher Powers, and that not for
+<pb n="31" facs="tcp:50189:18"/> fear of the <hi>Laws</hi> only, but readily and ingenuouſly, and for
+<hi>Conſcience-ſake, to Fear God, to Honour the King, and to Love the Brother-hood;</hi> to be in perfect <hi>Charity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> among our ſelves, as <hi>becometh</hi> Brethren; and ſo, in all manner of <hi>well-doing</hi> to com<g ref="char:EOLhyphen"/>mit our ſelves to <hi>God;</hi> to whom be
+<hi>Glory, Dominion</hi> and <hi>Praiſe.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
